@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "436738625083",
+    "project_id": "pushyme-50bf0",
+    "storage_bucket": "pushyme-50bf0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436738625083:android:c43b80d1a92e5768b0d61e",
+        "android_client_info": {
+          "package_name": "com.maersk.pushyapp.poc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436738625083-tm51mn90447q02hor0lc37hrnbsnn0eo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2dgOriqmyYNJXHKFi8GFRhRGwiidLc4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436738625083-tm51mn90447q02hor0lc37hrnbsnn0eo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
